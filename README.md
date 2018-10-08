@@ -15,7 +15,7 @@ Example:
 ```
 Jhon Doe - CSE - 2019
 ```
-- Check `create seperate branch` option
+- Check `create new branch and start a pull request` option
 - Click on `compare across forks`
 - Choose `so-sc/resume-review` as the base branch
 - Click on create Pull Request.
