@@ -3,7 +3,7 @@ Submit your resumes through pull requests to get reviewd by a team of experts! G
 
 ## How to submit your resumes?
 #### If you are studying for Engineering
-Follow the instructions in this video carefully to submit your resume:
+Follow the instructions in this video carefully to submit your resume:  
 Video instructions: [https://youtu.be/eQ8qjMUOlHg](https://youtu.be/eQ8qjMUOlHg)
 
 - Fork this repository
